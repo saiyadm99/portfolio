@@ -1937,13 +1937,14 @@ header .logo a {
 }
 .popup-modal .categories {
 	font-family: "poppins-bold", sans-serif;
-	font-size: 1.1rem;
+	font-size: 1.4rem;
 	line-height: 1.8rem;
+	padding: .6rem 0;
 	text-transform: uppercase;
 	letter-spacing: .1rem;
 	display: block;
 	text-align: left;
-	color: rgba(0, 0, 0, 0.5);
+	color: #2079c7;
 }
 .popup-modal .link-box {
 	width: 100%;
